@@ -34,7 +34,7 @@ gulp.task('serve', function () {
 });
 
 /**
- * Default task, running just `gulp` will compile the sass,
- * compile the harp site, launch BrowserSync & watch files.
+ * Default task, running `gulp` will fire up the Harp site,
+ * launch BrowserSync & watch files.
  */
 gulp.task('default', ['serve']);
