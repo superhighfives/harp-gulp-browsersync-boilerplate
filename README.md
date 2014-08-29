@@ -1,4 +1,4 @@
-# Halp, Gulp And BrowserSync
+# Harp, Gulp And BrowserSync
 
 A ready-to-go Gulp and Harp set up that does auto css injection via BrowserSync.
 
